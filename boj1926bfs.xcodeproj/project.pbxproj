@@ -109,6 +109,12 @@
 		8DF1E0032535657F00FB94D8 /* king.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E0022535657F00FB94D8 /* king.cpp */; };
 		8DF1E0062535917100FB94D8 /* baek2822.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E0052535917100FB94D8 /* baek2822.cpp */; };
 		8DF1E0092535B1B300FB94D8 /* baek2042.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E0082535B1B300FB94D8 /* baek2042.cpp */; };
+		8DF1E00C25360B6900FB94D8 /* boj6549.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E00B25360B6900FB94D8 /* boj6549.cpp */; };
+		8DF1E00F253696F200FB94D8 /* baek16968.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E00E253696F200FB94D8 /* baek16968.cpp */; };
+		8DF1E01225369C8100FB94D8 /* baek16968_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E01125369C8100FB94D8 /* baek16968_2.cpp */; };
+		8DF1E01525369F6400FB94D8 /* baek16943.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E01425369F6400FB94D8 /* baek16943.cpp */; };
+		8DF1E0182536A28E00FB94D8 /* baek16637.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E0172536A28E00FB94D8 /* baek16637.cpp */; };
+		8DF1E01B25371C5000FB94D8 /* progtriangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF1E01A25371C5000FB94D8 /* progtriangle.cpp */; };
 		8DF8B7532531E28E00CE57CB /* selectionsort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF8B7522531E28E00CE57CB /* selectionsort.cpp */; };
 		8DF8B7562531E68500CE57CB /* insertionsort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF8B7552531E68500CE57CB /* insertionsort.cpp */; };
 		8DF8B7592531F02900CE57CB /* baek11728.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF8B7582531F02900CE57CB /* baek11728.cpp */; };
@@ -236,6 +242,12 @@
 		8DF1E0022535657F00FB94D8 /* king.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = king.cpp; sourceTree = "<group>"; };
 		8DF1E0052535917100FB94D8 /* baek2822.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek2822.cpp; sourceTree = "<group>"; };
 		8DF1E0082535B1B300FB94D8 /* baek2042.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek2042.cpp; sourceTree = "<group>"; };
+		8DF1E00B25360B6900FB94D8 /* boj6549.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj6549.cpp; sourceTree = "<group>"; };
+		8DF1E00E253696F200FB94D8 /* baek16968.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek16968.cpp; sourceTree = "<group>"; };
+		8DF1E01125369C8100FB94D8 /* baek16968_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek16968_2.cpp; sourceTree = "<group>"; };
+		8DF1E01425369F6400FB94D8 /* baek16943.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek16943.cpp; sourceTree = "<group>"; };
+		8DF1E0172536A28E00FB94D8 /* baek16637.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek16637.cpp; sourceTree = "<group>"; };
+		8DF1E01A25371C5000FB94D8 /* progtriangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = progtriangle.cpp; sourceTree = "<group>"; };
 		8DF8B7522531E28E00CE57CB /* selectionsort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = selectionsort.cpp; sourceTree = "<group>"; };
 		8DF8B7552531E68500CE57CB /* insertionsort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = insertionsort.cpp; sourceTree = "<group>"; };
 		8DF8B7582531F02900CE57CB /* baek11728.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek11728.cpp; sourceTree = "<group>"; };
@@ -261,8 +273,14 @@
 		8DC8AC93251E4E0400E86634 = {
 			isa = PBXGroup;
 			children = (
+				8DF1E00E253696F200FB94D8 /* baek16968.cpp */,
+				8DF1E01125369C8100FB94D8 /* baek16968_2.cpp */,
+				8DF1E01425369F6400FB94D8 /* baek16943.cpp */,
+				8DF1E0172536A28E00FB94D8 /* baek16637.cpp */,
+				8DF1E01A25371C5000FB94D8 /* progtriangle.cpp */,
 				8DF1E0052535917100FB94D8 /* baek2822.cpp */,
 				8DF1E0082535B1B300FB94D8 /* baek2042.cpp */,
+				8DF1E00B25360B6900FB94D8 /* boj6549.cpp */,
 				8DF1DFF62534611F00FB94D8 /* baekjoon3111.cpp */,
 				8DF1DFFC253471F400FB94D8 /* baek3111.cpp */,
 				8DF1DFFF2534B8B300FB94D8 /* baek16909.cpp */,
@@ -474,11 +492,13 @@
 				8D5472F02525B149005EA514 /* hanoi2.cpp in Sources */,
 				8D4EBFBA252BFDA500626B2C /* arraymul.cpp in Sources */,
 				8DF8B7622532F4DA00CE57CB /* baek1992.cpp in Sources */,
+				8DF1E01525369F6400FB94D8 /* baek16943.cpp in Sources */,
 				8D5472E4252462FB005EA514 /* bfsmiro.cpp in Sources */,
 				8DC8ACA0251E4E0400E86634 /* main.cpp in Sources */,
 				8D4EBFF0252EA80700626B2C /* fibotopdown.cpp in Sources */,
 				8D5472F925262CFE005EA514 /* backtrakingnandm.cpp in Sources */,
 				8DF1E0002534B8B300FB94D8 /* baek16909.cpp in Sources */,
+				8DF1E00C25360B6900FB94D8 /* boj6549.cpp in Sources */,
 				8D4EBFF3252EA8B500626B2C /* fibotest.cpp in Sources */,
 				8D5472E725247153005EA514 /* tomato.cpp in Sources */,
 				8D547305252742BC005EA514 /* baekjoonnm.cpp in Sources */,
@@ -514,6 +534,7 @@
 				8D4EC00B252EFEAE00626B2C /* baek1654.cpp in Sources */,
 				8DF1DFFA2534708A00FB94D8 /* baek 3111.cpp in Sources */,
 				8D4EBFDB252D92E200626B2C /* baek2293.cpp in Sources */,
+				8DF1E01B25371C5000FB94D8 /* progtriangle.cpp in Sources */,
 				8D4EBFB1252B3E0D00626B2C /* bottomup.cpp in Sources */,
 				8D4EC008252EFB5300626B2C /* baek2110_try3.cpp in Sources */,
 				8D4EBFF9252EAAEB00626B2C /* findParent11.cpp in Sources */,
@@ -525,6 +546,7 @@
 				8D54730B25275055005EA514 /* lissum.cpp in Sources */,
 				8DC8ACC82520648A00E86634 /* alpha.cpp in Sources */,
 				8D4EC02925306D1C00626B2C /* divide11.cpp in Sources */,
+				8DF1E01225369C8100FB94D8 /* baek16968_2.cpp in Sources */,
 				8D54739B252A00E4005EA514 /* vectorSort.cpp in Sources */,
 				8D4EBFC9252C9E1E00626B2C /* beak1149.cpp in Sources */,
 				8DC8ACCB2520681E00E86634 /* alpha22.cpp in Sources */,
@@ -549,6 +571,7 @@
 				8D4EBFF6252EA9DB00626B2C /* fibobottomup.cpp in Sources */,
 				8DC8ACCE25206ADC00E86634 /* plus100.cpp in Sources */,
 				8DF1E0032535657F00FB94D8 /* king.cpp in Sources */,
+				8DF1E0182536A28E00FB94D8 /* baek16637.cpp in Sources */,
 				8DC8ACC52520618500E86634 /* vector2.cpp in Sources */,
 				8DC8ACEA25231E3A00E86634 /* stlqueue.cpp in Sources */,
 				8DC8ACB2251ED90500E86634 /* main4.cpp in Sources */,
@@ -558,6 +581,7 @@
 				8D4EC005252EF53B00626B2C /* beak2110-try2.cpp in Sources */,
 				8DC8ACE725231C8500E86634 /* queuetest.cpp in Sources */,
 				8D54730825274844005EA514 /* nqueen.cpp in Sources */,
+				8DF1E00F253696F200FB94D8 /* baek16968.cpp in Sources */,
 				8DF8B76825336C8300CE57CB /* baek2630.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
