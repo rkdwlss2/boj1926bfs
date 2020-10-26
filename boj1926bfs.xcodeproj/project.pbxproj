@@ -78,6 +78,12 @@
 		8D5473982529FD3F005EA514 /* RadixSortBaekjoon2751.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5473972529FD3F005EA514 /* RadixSortBaekjoon2751.cpp */; };
 		8D54739B252A00E4005EA514 /* vectorSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D54739A252A00E4005EA514 /* vectorSort.cpp */; };
 		8D54739E252A0392005EA514 /* cmpSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D54739D252A0392005EA514 /* cmpSort.cpp */; };
+		8D9522A02545815B00609B71 /* boj7576.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D95229F2545815B00609B71 /* boj7576.cpp */; };
+		8D9522A32545BBDC00609B71 /* sintest3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9522A22545BBDC00609B71 /* sintest3.cpp */; };
+		8D9522A62545C8E000609B71 /* sintest2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9522A52545C8E000609B71 /* sintest2.cpp */; };
+		8D9522A92545CDEC00609B71 /* sintest1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9522A82545CDEC00609B71 /* sintest1.cpp */; };
+		8D9522AC2546925900609B71 /* boj4179.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9522AB2546925900609B71 /* boj4179.cpp */; };
+		8D9522AF2546A5D300609B71 /* bitmaks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9522AE2546A5D300609B71 /* bitmaks.cpp */; };
 		8DC8ACA0251E4E0400E86634 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DC8AC9F251E4E0400E86634 /* main.cpp */; };
 		8DC8ACA9251ECCB500E86634 /* main2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DC8ACA7251ECCB500E86634 /* main2.cpp */; };
 		8DC8ACAD251ED30B00E86634 /* main3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DC8ACAC251ED30B00E86634 /* main3.cpp */; };
@@ -265,6 +271,12 @@
 		8D5473972529FD3F005EA514 /* RadixSortBaekjoon2751.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = RadixSortBaekjoon2751.cpp; sourceTree = "<group>"; };
 		8D54739A252A00E4005EA514 /* vectorSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = vectorSort.cpp; sourceTree = "<group>"; };
 		8D54739D252A0392005EA514 /* cmpSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = cmpSort.cpp; sourceTree = "<group>"; };
+		8D95229F2545815B00609B71 /* boj7576.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj7576.cpp; sourceTree = "<group>"; };
+		8D9522A22545BBDC00609B71 /* sintest3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sintest3.cpp; sourceTree = "<group>"; };
+		8D9522A52545C8E000609B71 /* sintest2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sintest2.cpp; sourceTree = "<group>"; };
+		8D9522A82545CDEC00609B71 /* sintest1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sintest1.cpp; sourceTree = "<group>"; };
+		8D9522AB2546925900609B71 /* boj4179.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj4179.cpp; sourceTree = "<group>"; };
+		8D9522AE2546A5D300609B71 /* bitmaks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bitmaks.cpp; sourceTree = "<group>"; };
 		8DC8AC9C251E4E0400E86634 /* boj1926bfs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = boj1926bfs; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DC8AC9F251E4E0400E86634 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8DC8ACA7251ECCB500E86634 /* main2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main2.cpp; sourceTree = "<group>"; };
@@ -383,6 +395,12 @@
 		8DC8AC93251E4E0400E86634 = {
 			isa = PBXGroup;
 			children = (
+				8D9522AE2546A5D300609B71 /* bitmaks.cpp */,
+				8D9522AB2546925900609B71 /* boj4179.cpp */,
+				8D9522A82545CDEC00609B71 /* sintest1.cpp */,
+				8D9522A52545C8E000609B71 /* sintest2.cpp */,
+				8D9522A22545BBDC00609B71 /* sintest3.cpp */,
+				8D95229F2545815B00609B71 /* boj7576.cpp */,
 				8DDE5AF4254438F000CD8822 /* nhntest3_2.cpp */,
 				8DDE5AEE254403E600CD8822 /* test3.cpp */,
 				8DDE5AF1254424D100CD8822 /* nhntest2_2.cpp */,
@@ -632,6 +650,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DF8B76B2533722900CE57CB /* baek6549.cpp in Sources */,
+				8D9522A02545815B00609B71 /* boj7576.cpp in Sources */,
 				8DC8ACF3252325DB00E86634 /* stldequeue.cpp in Sources */,
 				8D4EBFFF252EB72600626B2C /* kruscal.cpp in Sources */,
 				8D5472D82524348B005EA514 /* test22.cpp in Sources */,
@@ -651,6 +670,7 @@
 				8D4EC02F2530873500626B2C /* test.cpp in Sources */,
 				8DD1A9322541A30B0024A4B8 /* boj12869.cpp in Sources */,
 				8DDE5AEC2543FA9A00CD8822 /* nhntest2.cpp in Sources */,
+				8D9522A32545BBDC00609B71 /* sintest3.cpp in Sources */,
 				8D54739E252A0392005EA514 /* cmpSort.cpp in Sources */,
 				8D4EBFD2252CAF9000626B2C /* prefixmaxsum.cpp in Sources */,
 				8DF8B7532531E28E00CE57CB /* selectionsort.cpp in Sources */,
@@ -709,9 +729,12 @@
 				8D4EBFD5252CB54100626B2C /* prefixdp.cpp in Sources */,
 				8DD1A8FF253EC9B20024A4B8 /* lis3.cpp in Sources */,
 				8DC8ACF02523238800E86634 /* myowndequeue.cpp in Sources */,
+				8D9522AC2546925900609B71 /* boj4179.cpp in Sources */,
+				8D9522A92545CDEC00609B71 /* sintest1.cpp in Sources */,
 				8DDE5AF2254424D100CD8822 /* nhntest2_2.cpp in Sources */,
 				8DD1A9382542DA460024A4B8 /* test11.cpp in Sources */,
 				8D4EBFED252EA15A00626B2C /* baekjoon1477.cpp in Sources */,
+				8D9522AF2546A5D300609B71 /* bitmaks.cpp in Sources */,
 				8DF1E0272538285A00FB94D8 /* programmerswe.cpp in Sources */,
 				8DF1E0212537DEEA00FB94D8 /* programmersn.cpp in Sources */,
 				8D4EBFB7252BFA3C00626B2C /* rowcolumnPlus.cpp in Sources */,
@@ -724,6 +747,7 @@
 				8D5472FC2526F83B005EA514 /* hamming.cpp in Sources */,
 				8D4EC00B252EFEAE00626B2C /* baek1654.cpp in Sources */,
 				8DF1DFFA2534708A00FB94D8 /* baek 3111.cpp in Sources */,
+				8D9522A62545C8E000609B71 /* sintest2.cpp in Sources */,
 				8D4EBFDB252D92E200626B2C /* baek2293.cpp in Sources */,
 				8DF1E01B25371C5000FB94D8 /* progtriangle.cpp in Sources */,
 				8D4EBFB1252B3E0D00626B2C /* bottomup.cpp in Sources */,
