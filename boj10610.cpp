@@ -1,15 +1,15 @@
+////
+////  boj10610.cpp
+////  boj1926bfs
+////
+////  Created by 강명진 on 2020/11/26.
+////
 //
-//  boj10610.cpp
-//  boj1926bfs
+//#include <iostream>
+//using namespace std;
 //
-//  Created by 강명진 on 2020/11/26.
-//
-
-#include <iostream>
-using namespace std;
-
-int main(){
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    
-}
+//int main(){
+//    ios::sync_with_stdio(0);
+//    cin.tie(0);
+//    
+//}
