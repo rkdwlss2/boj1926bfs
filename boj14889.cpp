@@ -1,63 +1,62 @@
-/*#include <iostream>
-#include <vector>
-using namespace std;
-int n;
-int board[21][21];
-vector<int> v;
-vector<int> v2;
-bool visited[21];
-int answer = 987654321;
-int sumF(int lr) {
-	int sum = 0;
-	for (int i = 0; i < n / 2; i++) {
-		for (int j = 0; j < n / 2; j++) {
-			if (lr == 0) {
-				sum += board[v[i]][v[j]];
-			}
-			else {
-				sum += board[v2[i]][v2[j]];
-			}
-		}
-	}
-	return sum;
-}
-
-void choice(int index,int prev) {
-
-	if (index == n / 2) { 
-		for (int i = 0; i < n; i++) {
-			if (visited[i] == false) {
-				v2.push_back(i);
-			}
-		}
-		int a1 = sumF(0);
-		int a2 = sumF(1);
-		int bet = a1 - a2;
-		if (a2 > a1)bet = a2 - a1;
-		if (answer > bet)answer = bet;
-		vector<int> v3;
-		v2 = v3;
-		return; 
-	}
-	for (int i = prev+1; i < n; i++) {
-		if (visited[i] == true)continue;
-		visited[i] = true;
-		v.push_back(i);
-		choice(index + 1,i);
-		v.pop_back();
-		visited[i] = false;
-	}
-}
-
-int main() {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-	cin >> n;
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < n; j++) {
-			cin >> board[i][j];
-		}
-	}
-	choice(0,-1);
-	cout << answer << '\n';
-}*/
+////
+////  boj14889.cpp
+////  boj10039
+////
+////  Created by 강명진 on 2021/03/03.
+////
+//
+//#include <iostream>
+//#include <vector>
+//using namespace std;
+//
+//int board[21][21];
+//int n;
+//vector<pair<pair<int,int>,pair<int,int>>> v;
+//int small=987654321;
+//bool check[21];
+//void go(int index,int sum){
+////    if (sum>=small)return;
+//    if (index==n/2){
+//        int a=v[0].second.first+v[0].second.second;
+//        int b=v[1].second.first+v[1].second.second;
+//        int sum=a-b;
+//        if (b>a)sum=b-a;
+//        if (small>sum)small=sum;
+//        return;
+//    }
+//    for (int i = 0 ; i <n;i++){
+//        for (int j = 0 ; j <n;j++){
+//            if (i==j)continue;
+//            if (board[i][j]==0)continue;
+//            if (check[i]==true )continue;
+//            if (check[j]==true )continue;
+//            int tmp=board[i][j];
+//            int tmp2=board[j][i];
+//            check[i]=true;
+//            check[j]=true;
+//            v.push_back({{i,j},{tmp,tmp2}});
+//            board[i][j]=0;
+//            board[j][i]=0;
+//            go(index+1,sum+tmp);
+//            check[i]=false;
+//            check[j]=false;
+//            v.pop_back();
+//            board[i][j]=tmp;
+//            board[j][i]=tmp2;
+//        }
+//    }
+//    
+//}
+//
+//int main(){
+//    ios::sync_with_stdio(0);
+//    cin.tie(0);
+//    cin>>n;
+//    for (int i = 0 ; i < n ; i++){
+//        for (int j = 0 ; j <n;j++){
+//            cin>>board[i][j];
+//        }
+//    }
+//    go(0,0);
+//    cout<<small<<'\n';
+//}
