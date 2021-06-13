@@ -11,7 +11,7 @@
 //#include <cstring>
 //using namespace std;
 //
-//const int MAX_V=59;
+
 //const int INF=987654321;
 //int V;
 //
@@ -54,17 +54,4 @@
 //    cin.tie(0);
 //    int n;
 //    cin>>n;
-//    V=59;
-//    memset(capacity, 0, sizeof(capacity));
-//    for (int i=0;i<n;i++){
-//        char a,b;
-//        int c;
-//        cin>>a>>b>>c;
-//        
-//        int a1=a-'A';
-//        int b1=b-'A';
-//        
-//        capacity[a1][b1]=c;
-//    }
-//    cout<<networkFlow(0,25)<<'\n';
-//}
+
