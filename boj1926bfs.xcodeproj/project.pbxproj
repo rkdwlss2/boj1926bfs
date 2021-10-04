@@ -37,6 +37,12 @@
 		8D2F633C25A8720D00489428 /* boj2164.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2F633B25A8720D00489428 /* boj2164.cpp */; };
 		8D2F633F25AB40A700489428 /* boj1533.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2F633E25AB40A600489428 /* boj1533.cpp */; };
 		8D2F634225AC5F5C00489428 /* boj1874-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2F634125AC5F5C00489428 /* boj1874-2.cpp */; };
+		8D300AD626F2456D00E14D97 /* algospotMordor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D300AD526F2456D00E14D97 /* algospotMordor.cpp */; };
+		8D300AD926F6D22900E14D97 /* algospotMeasureTime.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D300AD826F6D22800E14D97 /* algospotMeasureTime.cpp */; };
+		8D300ADC26F6EA5A00E14D97 /* algospotEditorWars.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D300ADB26F6EA5A00E14D97 /* algospotEditorWars.cpp */; };
+		8D300ADF26F89D2900E14D97 /* boj12899.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D300ADE26F89D2900E14D97 /* boj12899.cpp */; };
+		8D300AE226F8A28F00E14D97 /* boj15904.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D300AE126F8A28F00E14D97 /* boj15904.cpp */; };
+		8D300AE5270AE88100E14D97 /* boj1550.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D300AE4270AE88100E14D97 /* boj1550.cpp */; };
 		8D3EE6EA263D87B500A7E24E /* boj17406.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3EE6E9263D87B500A7E24E /* boj17406.cpp */; };
 		8D4EBFA8252B0C2300626B2C /* make1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D4EBFA7252B0C2300626B2C /* make1.cpp */; };
 		8D4EBFAB252B122300626B2C /* beakjoon1463.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D4EBFAA252B122300626B2C /* beakjoon1463.cpp */; };
@@ -439,6 +445,12 @@
 		8D2F633B25A8720D00489428 /* boj2164.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2164.cpp; sourceTree = "<group>"; };
 		8D2F633E25AB40A600489428 /* boj1533.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1533.cpp; sourceTree = "<group>"; };
 		8D2F634125AC5F5C00489428 /* boj1874-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "boj1874-2.cpp"; sourceTree = "<group>"; };
+		8D300AD526F2456D00E14D97 /* algospotMordor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotMordor.cpp; sourceTree = "<group>"; };
+		8D300AD826F6D22800E14D97 /* algospotMeasureTime.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotMeasureTime.cpp; sourceTree = "<group>"; };
+		8D300ADB26F6EA5A00E14D97 /* algospotEditorWars.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotEditorWars.cpp; sourceTree = "<group>"; };
+		8D300ADE26F89D2900E14D97 /* boj12899.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj12899.cpp; sourceTree = "<group>"; };
+		8D300AE126F8A28F00E14D97 /* boj15904.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj15904.cpp; sourceTree = "<group>"; };
+		8D300AE4270AE88100E14D97 /* boj1550.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1550.cpp; sourceTree = "<group>"; };
 		8D3EE6E9263D87B500A7E24E /* boj17406.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj17406.cpp; sourceTree = "<group>"; };
 		8D4EBFA7252B0C2300626B2C /* make1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = make1.cpp; sourceTree = "<group>"; };
 		8D4EBFAA252B122300626B2C /* beakjoon1463.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = beakjoon1463.cpp; sourceTree = "<group>"; };
@@ -823,8 +835,14 @@
 		8DC8AC93251E4E0400E86634 = {
 			isa = PBXGroup;
 			children = (
+				8D300AE4270AE88100E14D97 /* boj1550.cpp */,
 				8DBDD3A826E7B3B2005EAE72 /* boj10868.cpp */,
 				8DBDD3B226EBABBA005EAE72 /* boj9655-2.cpp */,
+				8D300AD526F2456D00E14D97 /* algospotMordor.cpp */,
+				8D300AD826F6D22800E14D97 /* algospotMeasureTime.cpp */,
+				8D300ADB26F6EA5A00E14D97 /* algospotEditorWars.cpp */,
+				8D300ADE26F89D2900E14D97 /* boj12899.cpp */,
+				8D300AE126F8A28F00E14D97 /* boj15904.cpp */,
 				8DBDD37C26AA8075005EAE72 /* boj11003-2.cpp */,
 				8DBDD3AB26EA4AB0005EAE72 /* MORDOR_rkdwlss2.cpp */,
 				8DBDD3AF26EB95D5005EAE72 /* boj9655.cpp */,
@@ -1319,6 +1337,7 @@
 				8D6217D925BB10E80001FC29 /* boj2941.cpp in Sources */,
 				8DF1E048253C3EB300FB94D8 /* graphtest.cpp in Sources */,
 				8D4EBFFC252EB36D00626B2C /* find_cycle.cpp in Sources */,
+				8D300AD626F2456D00E14D97 /* algospotMordor.cpp in Sources */,
 				8DF6CBE1255FB5F200F2DD93 /* test112.cpp in Sources */,
 				8DF6CBA82556468D00F2DD93 /* proraming1.cpp in Sources */,
 				8D4EC017252F35D000626B2C /* twopointersosu.cpp in Sources */,
@@ -1412,6 +1431,7 @@
 				8DD0DDF4259EA94600F84B3A /* boj9019.cpp in Sources */,
 				8D5472FF25270195005EA514 /* prim.cpp in Sources */,
 				8DC8ACD52520802000E86634 /* linkedlist.cpp in Sources */,
+				8D300ADF26F89D2900E14D97 /* boj12899.cpp in Sources */,
 				8DF6CBB12556544B00F2DD93 /* uatest4.cpp in Sources */,
 				8DF8B7652532FAE200CE57CB /* baek1780make_paper.cpp in Sources */,
 				8D4EC011252F0DCB00626B2C /* twopointerbyme.cpp in Sources */,
@@ -1437,6 +1457,7 @@
 				8DF1E02A25383E1200FB94D8 /* startlink.cpp in Sources */,
 				8DD0DD4325863F9D00F84B3A /* abc-185-b.cpp in Sources */,
 				8DC8ACC125205D8600E86634 /* vectortest.cpp in Sources */,
+				8D300AE226F8A28F00E14D97 /* boj15904.cpp in Sources */,
 				8D4EBFE1252DB3FC00626B2C /* baek17086.cpp in Sources */,
 				8DF6CC3C256DC03A00F2DD93 /* codeforce686_e.cpp in Sources */,
 				8D4EBFDE252DA96C00626B2C /* beaklis2293.cpp in Sources */,
@@ -1506,6 +1527,7 @@
 				8D6217C725B4614F0001FC29 /* boj10872.cpp in Sources */,
 				8DF6CBFF2565687900F2DD93 /* boj1541.cpp in Sources */,
 				8DF6CC4B25704FE100F2DD93 /* treeDP.cpp in Sources */,
+				8D300AD926F6D22900E14D97 /* algospotMeasureTime.cpp in Sources */,
 				8D4EBFAB252B122300626B2C /* beakjoon1463.cpp in Sources */,
 				8DD0DDF725A0ABEF00F84B3A /* boj9019-2.cpp in Sources */,
 				8D5472FC2526F83B005EA514 /* hamming.cpp in Sources */,
@@ -1541,6 +1563,7 @@
 				8DC8ACE125230FF900E86634 /* stackexample.cpp in Sources */,
 				8DD0DE1525A2BC2C00F84B3A /* boj2739.cpp in Sources */,
 				8DD1A91D254148630024A4B8 /* codeforce677_a.cpp in Sources */,
+				8D300AE5270AE88100E14D97 /* boj1550.cpp in Sources */,
 				8D54730225270970005EA514 /* primexam.cpp in Sources */,
 				8D4EC014252F2A4800626B2C /* baek1806.cpp in Sources */,
 				8D9522D325482C2800609B71 /* boj1697.cpp in Sources */,
@@ -1660,6 +1683,7 @@
 				8DC8ACD1252076F400E86634 /* plus100-2.cpp in Sources */,
 				8DC8ACD82520A41E00E86634 /* editor.cpp in Sources */,
 				8D128515254C64D5008B0204 /* algospotMenber_mias.cpp in Sources */,
+				8D300ADC26F6EA5A00E14D97 /* algospotEditorWars.cpp in Sources */,
 				8D9E40EB257F50A7009EC0FE /* boj2166.cpp in Sources */,
 				8DF6CC1E256A163800F2DD93 /* boj1339.cpp in Sources */,
 				8D5472F62525B90C005EA514 /* baekjoon2293.cpp in Sources */,
