@@ -409,6 +409,7 @@
 		8DF8B7652532FAE200CE57CB /* baek1780make_paper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF8B7642532FAE200CE57CB /* baek1780make_paper.cpp */; };
 		8DF8B76825336C8300CE57CB /* baek2630.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF8B76725336C8300CE57CB /* baek2630.cpp */; };
 		8DF8B76B2533722900CE57CB /* baek6549.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DF8B76A2533722900CE57CB /* baek6549.cpp */; };
+		8DFF7241275122400053E6BD /* boj16394.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF7240275122400053E6BD /* boj16394.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -827,6 +828,7 @@
 		8DF8B7642532FAE200CE57CB /* baek1780make_paper.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek1780make_paper.cpp; sourceTree = "<group>"; };
 		8DF8B76725336C8300CE57CB /* baek2630.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek2630.cpp; sourceTree = "<group>"; };
 		8DF8B76A2533722900CE57CB /* baek6549.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baek6549.cpp; sourceTree = "<group>"; };
+		8DFF7240275122400053E6BD /* boj16394.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj16394.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -853,6 +855,7 @@
 		8DC8AC93251E4E0400E86634 = {
 			isa = PBXGroup;
 			children = (
+				8DFF7240275122400053E6BD /* boj16394.cpp */,
 				8DB21DF1274A08D800B6FC7D /* boj23288.cpp */,
 				8DB21DEB273C1D1200B6FC7D /* boj9713.cpp */,
 				8DB21DEE273FBEBF00B6FC7D /* boj1213.cpp */,
@@ -1636,6 +1639,7 @@
 				8DD0DDCA25974D9800F84B3A /* boj11022.cpp in Sources */,
 				8DD0DDFD25A1607000F84B3A /* boj7569.cpp in Sources */,
 				8DF6CBC9255A496F00F2DD93 /* algospotzimbabwe.cpp in Sources */,
+				8DFF7241275122400053E6BD /* boj16394.cpp in Sources */,
 				8D54731125287BDD005EA514 /* beakjoongam.cpp in Sources */,
 				8DF6CC27256C429C00F2DD93 /* atcoder104.cpp in Sources */,
 				8DF6CBF32564178600F2DD93 /* test1.cpp in Sources */,
