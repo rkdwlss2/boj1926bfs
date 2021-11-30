@@ -413,6 +413,7 @@
 		8DFF724427535D6D0053E6BD /* boj23289.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724327535D6D0053E6BD /* boj23289.cpp */; };
 		8DFF7247275366730053E6BD /* boj2473.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF7246275366730053E6BD /* boj2473.cpp */; };
 		8DFF724A27550D1C0053E6BD /* bjoj2467.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724927550D1C0053E6BD /* bjoj2467.cpp */; };
+		8DFF724D275664460053E6BD /* boj2251.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724C275664460053E6BD /* boj2251.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -835,6 +836,7 @@
 		8DFF724327535D6D0053E6BD /* boj23289.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj23289.cpp; sourceTree = "<group>"; };
 		8DFF7246275366730053E6BD /* boj2473.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2473.cpp; sourceTree = "<group>"; };
 		8DFF724927550D1C0053E6BD /* bjoj2467.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bjoj2467.cpp; sourceTree = "<group>"; };
+		8DFF724C275664460053E6BD /* boj2251.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2251.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -862,6 +864,7 @@
 			isa = PBXGroup;
 			children = (
 				8DFF724927550D1C0053E6BD /* bjoj2467.cpp */,
+				8DFF724C275664460053E6BD /* boj2251.cpp */,
 				8DFF7240275122400053E6BD /* boj16394.cpp */,
 				8DFF724327535D6D0053E6BD /* boj23289.cpp */,
 				8DFF7246275366730053E6BD /* boj2473.cpp */,
@@ -1614,6 +1617,7 @@
 				8DD1A91D254148630024A4B8 /* codeforce677_a.cpp in Sources */,
 				8D300AE5270AE88100E14D97 /* boj1550.cpp in Sources */,
 				8D54730225270970005EA514 /* primexam.cpp in Sources */,
+				8DFF724D275664460053E6BD /* boj2251.cpp in Sources */,
 				8DFF724A27550D1C0053E6BD /* bjoj2467.cpp in Sources */,
 				8D4EC014252F2A4800626B2C /* baek1806.cpp in Sources */,
 				8D9522D325482C2800609B71 /* boj1697.cpp in Sources */,
