@@ -414,6 +414,7 @@
 		8DFF7247275366730053E6BD /* boj2473.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF7246275366730053E6BD /* boj2473.cpp */; };
 		8DFF724A27550D1C0053E6BD /* bjoj2467.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724927550D1C0053E6BD /* bjoj2467.cpp */; };
 		8DFF724D275664460053E6BD /* boj2251.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724C275664460053E6BD /* boj2251.cpp */; };
+		8DFF72502757B0560053E6BD /* boj1254.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724F2757B0560053E6BD /* boj1254.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -837,6 +838,7 @@
 		8DFF7246275366730053E6BD /* boj2473.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2473.cpp; sourceTree = "<group>"; };
 		8DFF724927550D1C0053E6BD /* bjoj2467.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bjoj2467.cpp; sourceTree = "<group>"; };
 		8DFF724C275664460053E6BD /* boj2251.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2251.cpp; sourceTree = "<group>"; };
+		8DFF724F2757B0560053E6BD /* boj1254.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1254.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -865,6 +867,7 @@
 			children = (
 				8DFF724927550D1C0053E6BD /* bjoj2467.cpp */,
 				8DFF724C275664460053E6BD /* boj2251.cpp */,
+				8DFF724F2757B0560053E6BD /* boj1254.cpp */,
 				8DFF7240275122400053E6BD /* boj16394.cpp */,
 				8DFF724327535D6D0053E6BD /* boj23289.cpp */,
 				8DFF7246275366730053E6BD /* boj2473.cpp */,
@@ -1419,6 +1422,7 @@
 				8DD0DD7F258E022600F84B3A /* cf-681-a.cpp in Sources */,
 				8DD0DDC125974B0400F84B3A /* boj2743.cpp in Sources */,
 				8D2F633C25A8720D00489428 /* boj2164.cpp in Sources */,
+				8DFF72502757B0560053E6BD /* boj1254.cpp in Sources */,
 				8DD0DD5B258903EC00F84B3A /* cf-690-b.cpp in Sources */,
 				8DD0DDE5259C7A0400F84B3A /* boj2667.cpp in Sources */,
 				8D9522CD2547261100609B71 /* stringmatch.cpp in Sources */,
