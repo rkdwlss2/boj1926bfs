@@ -415,6 +415,7 @@
 		8DFF724A27550D1C0053E6BD /* bjoj2467.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724927550D1C0053E6BD /* bjoj2467.cpp */; };
 		8DFF724D275664460053E6BD /* boj2251.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724C275664460053E6BD /* boj2251.cpp */; };
 		8DFF72502757B0560053E6BD /* boj1254.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724F2757B0560053E6BD /* boj1254.cpp */; };
+		8DFF7253275A5F8B0053E6BD /* BOJ5717.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF7252275A5F8B0053E6BD /* BOJ5717.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -839,6 +840,7 @@
 		8DFF724927550D1C0053E6BD /* bjoj2467.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bjoj2467.cpp; sourceTree = "<group>"; };
 		8DFF724C275664460053E6BD /* boj2251.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2251.cpp; sourceTree = "<group>"; };
 		8DFF724F2757B0560053E6BD /* boj1254.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1254.cpp; sourceTree = "<group>"; };
+		8DFF7252275A5F8B0053E6BD /* BOJ5717.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BOJ5717.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -865,6 +867,7 @@
 		8DC8AC93251E4E0400E86634 = {
 			isa = PBXGroup;
 			children = (
+				8DFF7252275A5F8B0053E6BD /* BOJ5717.cpp */,
 				8DFF724927550D1C0053E6BD /* bjoj2467.cpp */,
 				8DFF724C275664460053E6BD /* boj2251.cpp */,
 				8DFF724F2757B0560053E6BD /* boj1254.cpp */,
@@ -1368,6 +1371,7 @@
 				8D4EBFFF252EB72600626B2C /* kruscal.cpp in Sources */,
 				8DD0DD8E258E46E300F84B3A /* boj11720.cpp in Sources */,
 				8DF6CC552571C1AC00F2DD93 /* xorTest.cpp in Sources */,
+				8DFF7253275A5F8B0053E6BD /* BOJ5717.cpp in Sources */,
 				8D5472D82524348B005EA514 /* test22.cpp in Sources */,
 				8DD1A8FC253EC20C0024A4B8 /* algospotlis.cpp in Sources */,
 				8DD1A92925416DC80024A4B8 /* codeforces677_e.cpp in Sources */,
