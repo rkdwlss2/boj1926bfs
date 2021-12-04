@@ -416,6 +416,7 @@
 		8DFF724D275664460053E6BD /* boj2251.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724C275664460053E6BD /* boj2251.cpp */; };
 		8DFF72502757B0560053E6BD /* boj1254.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF724F2757B0560053E6BD /* boj1254.cpp */; };
 		8DFF7253275A5F8B0053E6BD /* BOJ5717.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF7252275A5F8B0053E6BD /* BOJ5717.cpp */; };
+		8DFF7256275B52300053E6BD /* boj2933.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF7255275B52300053E6BD /* boj2933.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -841,6 +842,7 @@
 		8DFF724C275664460053E6BD /* boj2251.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2251.cpp; sourceTree = "<group>"; };
 		8DFF724F2757B0560053E6BD /* boj1254.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1254.cpp; sourceTree = "<group>"; };
 		8DFF7252275A5F8B0053E6BD /* BOJ5717.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BOJ5717.cpp; sourceTree = "<group>"; };
+		8DFF7255275B52300053E6BD /* boj2933.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2933.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -868,6 +870,7 @@
 			isa = PBXGroup;
 			children = (
 				8DFF7252275A5F8B0053E6BD /* BOJ5717.cpp */,
+				8DFF7255275B52300053E6BD /* boj2933.cpp */,
 				8DFF724927550D1C0053E6BD /* bjoj2467.cpp */,
 				8DFF724C275664460053E6BD /* boj2251.cpp */,
 				8DFF724F2757B0560053E6BD /* boj1254.cpp */,
@@ -1494,6 +1497,7 @@
 				8D5472F32525B240005EA514 /* baekjoon1074.cpp in Sources */,
 				8DD0DE0325A1F6E900F84B3A /* algospotFastsum.cpp in Sources */,
 				8D4EBFD8252D8E7000626B2C /* baek11053.cpp in Sources */,
+				8DFF7256275B52300053E6BD /* boj2933.cpp in Sources */,
 				8D5473982529FD3F005EA514 /* RadixSortBaekjoon2751.cpp in Sources */,
 				8DD0DD58258901CA00F84B3A /* cf-690-a.cpp in Sources */,
 				8DD0DDB82597288D00F84B3A /* boj10799.cpp in Sources */,
