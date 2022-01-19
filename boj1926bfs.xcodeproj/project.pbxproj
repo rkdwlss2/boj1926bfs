@@ -120,6 +120,8 @@
 		8D5EA8DC279459F500AC1492 /* boj2826.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5EA8DB279459F500AC1492 /* boj2826.cpp */; };
 		8D5EA8DE2795C8A300AC1492 /* boj1781.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5EA8DD2795C8A300AC1492 /* boj1781.cpp */; };
 		8D5EA8E027970C1900AC1492 /* boj9944.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5EA8DF27970C1900AC1492 /* boj9944.cpp */; };
+		8D5EA8E22798578F00AC1492 /* boj2234.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5EA8E12798578F00AC1492 /* boj2234.cpp */; };
+		8D5EA8E42798752900AC1492 /* boj2234-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D5EA8E32798752900AC1492 /* boj2234-2.cpp */; };
 		8D6217C125AF3B240001FC29 /* boj6603.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6217C025AF3B240001FC29 /* boj6603.cpp */; };
 		8D6217C425B060CD0001FC29 /* boj1759.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6217C325B060CD0001FC29 /* boj1759.cpp */; };
 		8D6217C725B4614F0001FC29 /* boj10872.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6217C625B4614F0001FC29 /* boj10872.cpp */; };
@@ -556,6 +558,8 @@
 		8D5EA8DB279459F500AC1492 /* boj2826.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2826.cpp; sourceTree = "<group>"; };
 		8D5EA8DD2795C8A300AC1492 /* boj1781.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1781.cpp; sourceTree = "<group>"; };
 		8D5EA8DF27970C1900AC1492 /* boj9944.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj9944.cpp; sourceTree = "<group>"; };
+		8D5EA8E12798578F00AC1492 /* boj2234.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2234.cpp; sourceTree = "<group>"; };
+		8D5EA8E32798752900AC1492 /* boj2234-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "boj2234-2.cpp"; sourceTree = "<group>"; };
 		8D6217C025AF3B240001FC29 /* boj6603.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj6603.cpp; sourceTree = "<group>"; };
 		8D6217C325B060CD0001FC29 /* boj1759.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1759.cpp; sourceTree = "<group>"; };
 		8D6217C625B4614F0001FC29 /* boj10872.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10872.cpp; sourceTree = "<group>"; };
@@ -891,6 +895,8 @@
 		8DC8AC93251E4E0400E86634 = {
 			isa = PBXGroup;
 			children = (
+				8D5EA8E32798752900AC1492 /* boj2234-2.cpp */,
+				8D5EA8E12798578F00AC1492 /* boj2234.cpp */,
 				8D5EA8DF27970C1900AC1492 /* boj9944.cpp */,
 				8D5EA8DD2795C8A300AC1492 /* boj1781.cpp */,
 				8D5EA8D92792ADE300AC1492 /* boj1986.cpp */,
@@ -1474,6 +1480,8 @@
 				8D128506254C0B66008B0204 /* algospotNaming.cpp in Sources */,
 				8DBDD37A26AA774A005EAE72 /* boj11003.cpp in Sources */,
 				8DD0DDD025974EFE00F84B3A /* boj11721.cpp in Sources */,
+				8D5EA8E22798578F00AC1492 /* boj2234.cpp in Sources */,
+				8D5EA8E42798752900AC1492 /* boj2234-2.cpp in Sources */,
 				8D1284E8254A5AC1008B0204 /* 네트워크.cpp in Sources */,
 				8D1284F7254B20EF008B0204 /* boj1766.cpp in Sources */,
 				8DD0DD5E2589092800F84B3A /* cf-690-c.cpp in Sources */,
