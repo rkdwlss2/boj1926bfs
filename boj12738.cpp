@@ -1,13 +1,13 @@
+////
+////  boj12738.cpp
+////  boj1926bfs
+////
+////  Created by 강명진 on 2022/01/23.
+////
 //
-//  boj12738.cpp
-//  boj1926bfs
+//#include <iostream>
+//using namespace std;
 //
-//  Created by 강명진 on 2022/01/23.
-//
-
-#include <iostream>
-using namespace std;
-
-int main(){
-    
-}
+//int main(){
+//    
+//}
